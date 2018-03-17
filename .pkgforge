@@ -10,7 +10,7 @@ cflags
 harden
 
 build do
-  run 'bootstrap.sh'
+  run './bootstrap.sh'
   configure
   make
   install
