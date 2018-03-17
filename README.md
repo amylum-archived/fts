@@ -5,7 +5,7 @@ fts
 [![GitHub release](https://img.shields.io/github/release/amylum/fts.svg)](https://github.com/amylum/fts/releases)
 [![BSD Licensed](https://img.shields.io/badge/license-BSD-green.svg)](https://tldrlegal.com/license/bsd-3-clause-license-(revised))
 
-Package repo for [fts](https://sourceware.org/fts/)
+Package repo for [fts](https://github.com/pullmoll/musl-fts)
 
 ## Usage
 
