@@ -8,6 +8,7 @@ item do
   expected do
     github_tag
     repo 'pullmoll/musl-fts'
+    regex /^v([\d.]+)$/
   end
 
   actual do
