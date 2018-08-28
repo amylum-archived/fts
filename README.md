@@ -1,7 +1,7 @@
 fts
 ==========
 
-[![Build Status](https://img.shields.io/circleci/project/amylum/fts/master.svg)](https://circleci.com/gh/amylum/fts)
+[![Build Status](https://img.shields.io/travis/com/amylum/fts.svg)](https://travis-ci.com/amylum/fts)
 [![GitHub release](https://img.shields.io/github/release/amylum/fts.svg)](https://github.com/amylum/fts/releases)
 [![BSD Licensed](https://img.shields.io/badge/license-BSD-green.svg)](https://tldrlegal.com/license/bsd-3-clause-license-(revised))
 
